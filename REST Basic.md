@@ -43,3 +43,4 @@
      - https://blog.restcase.com/top-5-rest-api-security-guidelines/
      - https://blog.restcase.com/restful-api-authentication-basics/
      - https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
+     - https://www.youtube.com/watch?v=6VsGhLIkORQ
